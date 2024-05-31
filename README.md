@@ -10,5 +10,5 @@ You can find a detailed explannation of these design patterns and more in this [
 To get started with these examples, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/DesignPatternCode.git
-cd DesignPatternCode
+git clone https://github.com/harjotspahwa/design-patterns.git
+cd design-patterns
